@@ -26,6 +26,9 @@ build/Release
 # Dependency directory
 node_modules
 
+# rob
+rob
+
 # Optional npm cache directory
 .npm
 
